@@ -1,3 +1,8 @@
 One master line one
 
-Two master line two
+This is one line.
+This is two line.
+
+This is the second commit.
+This is the third commit.
+One master line two
